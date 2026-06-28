@@ -8,7 +8,7 @@
 I spend most of my free time in IDA/Ghidra and WinDbg.
 Doing projects out of boredom.
 
-**Research**: Binary exploitation, kernel internals, anti-analysis techniques
+**Research**: Binary exploitation, kernel, anti-analysis 
 **Primary**: C++ (17/20/23), x86-64 assembly, Windows/Linux internals
 
 ---
