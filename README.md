@@ -24,7 +24,7 @@ Tools:        IDA Pro, Ghidra, WinDbg, x64dbg, Frida, CMake
 
 ### Connect
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rupocom)
-[Discord](https://discord.com/users/1301658176671715330)
+[![Discord](https://img.shields.io/badge/Discord-1301658176671715330-7289DA?style=for-the-badge&logo=discord&logoWidth=20)](https://discord.com/users/1301658176671715330)
 
 ---
 
