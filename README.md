@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animated-title.svg" alt="Reverse Engineer, C++ Developer, Computer Science Student" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Reverse+Engineer;C%2B%2B+Developer;Computer+Science+Student&font=Fira%20Code&size=22&duration=3000&pause=1000&color=F72206&center=true&vCenter=true&width=600" alt="Typing SVG" />
 </p>
 
 ---
